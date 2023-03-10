@@ -3,7 +3,7 @@ local plrs = game:GetService("Players")
 local UI = game:GetObjects("rbxassetid://7437010836")[1]
 
 local cool = {
-    {4371246825, "[👑] i4mitty", 1},
+    {3878503910, "[👑] i4mitty", 1},
 }
 
 local function isCool(player)
